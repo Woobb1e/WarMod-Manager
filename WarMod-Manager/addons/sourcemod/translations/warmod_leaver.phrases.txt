@@ -1,0 +1,66 @@
+"Phrases"
+{
+    "SelectSpectator"
+    {
+        "en"        "Select a spectator to replace you:"
+        "ru"        "Выберите зрителя для замены:"
+    }
+    "Requested"
+    {
+        "en"        "Requested"
+        "ru"        "Запрошен"
+    }
+    "Asked"
+    {
+        "en"        "has requested you to replace him in the match!"
+        "ru"        "предложил вам заменить его в матче!"
+    }
+    "Wants you to replace him"
+    {
+        "#format"   "{1:N}"
+        "en"        "{1} wants you to replace him!"
+        "ru"        "{1} хочет, чтобы вы заменили его!"
+    }
+    "Accept"
+    {
+        "en"        "Accept & Join Match"
+        "ru"        "Принять и войти"
+    }
+    "Decline"
+    {
+        "en"        "Decline"
+        "ru"        "Отклонить"
+    }
+    "Declined your request"
+    {
+        "#format"   "{1:N}"
+        "en"        "{1} declined your replacement request."
+        "ru"        "{1} отклонил ваш запрос на замену."
+    }
+    "Left Match in Spec and not replaced"
+    {
+        "en"        "You left the live match without finding a replacement!"
+        "ru"        "Вы вышли из матча в спектаторы без замены!"
+    }
+    "Left Match in Spec"
+    {
+        "en"        "Leaving a live match to Spectator is forbidden!"
+        "ru"        "Запрещено уходить в спектаторы во время матча!"
+    }
+    "Leaving the match"
+    {
+        "en"        "Leaving a live competitive match"
+        "ru"        "Выход из соревновательного матча"
+    }
+    "Multiple match leaves"
+    {
+        "en"        "Repeatedly abandoning competitive matches"
+        "ru"        "Многократный выход из матчей"
+    }
+    "Banned"
+    {
+        "#format"   "{1:s},{2:s},{3:d},{4:s}"
+        "en"        "Player {1} ({2}) banned for {3} mins! Reason: {4}"
+        "ru"        "Игрок {1} ({2}) забанен на {3} мин! Причина: {4}"
+    }
+}

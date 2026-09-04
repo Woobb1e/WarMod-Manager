@@ -1,0 +1,51 @@
+"Phrases"
+{
+    "Not enough"
+    {
+        "#format"   "{1:d}"
+        "en"        "Waiting for {1} more player(s) to join..."
+        "ru"        "Ожидание еще {1} игрок(ов)..."
+    }
+    "Not enough to team"
+    {
+        "#format"   "{1:d}"
+        "en"        "Need {1} more player(s) in teams!"
+        "ru"        "Нужно еще {1} игрок(ов) в командах!"
+    }
+    "Are you ready to the match"
+    {
+        "en"        "Are you ready for the match?"
+        "ru"        "Вы готовы к матчу?"
+    }
+    "Are you ready to overtime"
+    {
+        "en"        "Match is tied! Are you ready for Overtime?"
+        "ru"        "Ничья! Вы готовы к овертайму?"
+    }
+    "Yes, I am always ready"
+    {
+        "en"        "Yes, I am ready!"
+        "ru"        "Да, я готов!"
+    }
+    "No, I am not"
+    {
+        "en"        "No, I am not ready"
+        "ru"        "Нет, не готов"
+    }
+    "Change map"
+    {
+        "en"        "Vote to change map"
+        "ru"        "Голосовать за смену карты"
+    }
+    "Is not ready"
+    {
+        "en"        "is NOT ready!"
+        "ru"        "НЕ готов!"
+    }
+    "Waiting for players"
+    {
+        "#format"   "{1:d}"
+        "en"        "Waiting for {1} more player(s) to join a team..."
+        "ru"        "Ожидание {1} игроков для выбора команды..."
+    }
+}

@@ -1,0 +1,25 @@
+"Phrases"
+{
+    "Already Voted"
+    {
+        "#format"   "{1:d},{2:d}"
+        "en"        "You have already voted to stop! ({1}/{2} votes)"
+        "ru"        "Вы уже проголосовали за остановку! ({1}/{2})"
+    }
+    "VoteStop Requested"
+    {
+        "#format"   "{1:s},{2:d},{3:d}"
+        "en"        "{1} voted to stop the match ({2}/{3} votes)"
+        "ru"        "{1} проголосовал за остановку матча ({2}/{3})"
+    }
+    "Match not live"
+    {
+        "en"        "Match is not currently live."
+        "ru"        "Матч сейчас не идет."
+    }
+    "Feature disabled"
+    {
+        "en"        "This feature is disabled on this server."
+        "ru"        "Эта функция отключена."
+    }
+}

@@ -1,0 +1,69 @@
+"Phrases"
+{
+    "One per team"
+    {
+        "en"        "10 players reached! Captains duel starting..."
+        "ru"        "10 игроков набрано! Начинается дуэль капитанов..."
+    }
+    "Autoselecting"
+    {
+        "#format"   "{1:d}"
+        "en"        "Auto-selecting captains in {1}s..."
+        "ru"        "Автовыбор капитанов через {1} сек..."
+    }
+    "Rights goes to"
+    {
+        "en"        "Draft pick priority goes to"
+        "ru"        "Право выбора переходит к"
+    }
+    "SelectTeam"
+    {
+        "en"        "Select your team side:"
+        "ru"        "Выберите сторону команды:"
+    }
+    "Counter-Terrorists force"
+    {
+        "en"        "Counter-Terrorists"
+        "ru"        "Спецназ (CT)"
+    }
+    "Terrorists force"
+    {
+        "en"        "Terrorists"
+        "ru"        "Террористы (T)"
+    }
+    "Competitor left the game"
+    {
+        "en"        "The competing captain has left the game."
+        "ru"        "Второй капитан покинул игру."
+    }
+    "SelectPlayer"
+    {
+        "en"        "Select a player for your team:"
+        "ru"        "Выберите игрока в свою команду:"
+    }
+    "Last"
+    {
+        "en"        "Last"
+        "ru"        "Последний"
+    }
+    "Player left the game"
+    {
+        "en"        "The selected player has left the server."
+        "ru"        "Выбранный игрок покинул сервер."
+    }
+    "You are last"
+    {
+        "en"        "You were marked as Last from the previous match!"
+        "ru"        "Вы помечены как Последний с прошлого матча!"
+    }
+    "Captain T in team"
+    {
+        "en"        "Terrorist captain is already chosen."
+        "ru"        "Капитан T уже выбран."
+    }
+    "Captain CT in team"
+    {
+        "en"        "CT captain is already chosen."
+        "ru"        "Капитан CT уже выбран."
+    }
+}
